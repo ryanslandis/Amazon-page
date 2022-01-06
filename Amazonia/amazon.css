@@ -1,0 +1,121 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    display: grid;
+    
+    
+    
+}
+
+.wrapper{
+    display: grid;
+    justify-content: space-between;
+    padding: 10px;
+    
+}
+
+nav{
+    display: grid;
+    border: 2px solid lightgrey;
+    width:1000px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 170px;
+    padding-right: 130px;
+    padding-top:10px;
+    margin-left: 70px;
+    margin-right: 130px;
+    margin-top: 50px;
+}
+
+#needhelp{
+    text-align:left;
+    color:rgb(25, 168, 216)
+    
+}
+
+#new{
+   justify-content: center;
+   text-align: center;
+   color: grey;
+}
+
+#account{
+    display: grid;
+    border: 2px solid grey;
+    justify-content: center;
+    width:700px;
+    background-color: lightgrey
+    
+}
+
+
+.lower{
+    display: grid;
+    justify-content: center;
+    padding-right:50px;
+    
+}
+
+.help{
+    display: flex;
+    justify-content: center;
+    color: blue;
+    }
+
+#email{
+    display: grid;
+    justify-content: center;
+    width:700px;
+    font-family: sans-serif;
+    
+}
+
+.password{
+    font-family: sans;
+    display: flex;
+    text-align:center;
+    flex-direction: row;
+}
+
+#continue{
+    display: grid;
+    margin-top: 50px;
+    border: 2px solid grey;
+    justify-content: center;
+    background-color: goldenrod;
+    margin-bottom:50px;
+    
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+#gap1{
+    display: grid;
+    border: 2px solid grey;
+    align-items: flex-start;
+    width:700px;
+    height:50px;
+    
+}
+
+#gap2{
+    display: grid;
+    border: 2px solid grey;
+    justify-content: center;
+    width:700px;
+    height:50px;
+    margin-bottom: 5px;
+}
+
+#pw1{
+    display:grid;
+    text-align:left;
+    margin-bottom:1px;
+}
+
+
